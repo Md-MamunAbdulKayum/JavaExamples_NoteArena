@@ -3,11 +3,15 @@ package switch_case_statement;
 import java.util.Scanner;
 
 /**
- * 
+ * A complete code example on the switch-case statement in Java
  * @author Mamun Kayum
  *
  */
 public class SwitchCaseStatement {
+	  /**
+	   * Main method
+	   * @param args
+	   */
 	  public static void main(String[] args) {
 		    Scanner scanner = new Scanner(System.in);
 		    System.out.print("Enter a month number (1-12): ");
